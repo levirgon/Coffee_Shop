@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Coffee_Shop">কফি হাউজ</string>
+    <string name="_0">৳ 0</string>
+    <string name="address">ঠিকানা</string>
+    <string name="app_name">শুধু জাভা</string>
+    <string name="chocolate">চকলেট</string>
+    <string name="chocolate_topping">"চকলেট "</string>
+    <string name="cream_topping">ক্রিম</string>
+    <string name="currency">"৳ "</string>
+    <string name="customer_address">ঠিকানা</string>
+    <string name="customer_name">নাম</string>
+    <string name="email_subject">কফি ক্রয়</string>
+    <string name="lower_limit">আপনি ১ এর কম কফি অর্ডার করতে পারবেন না</string>
+    <string name="name">নাম</string>
+    <string name="none">কোনোটাই না</string>
+    <string name="order">কিনুন</string>
+    <string name="order_summary">" ক্রয় সারসংক্ষেপ"</string>
+    <string name="price">দাম</string>
+    <string name="quantity">সংখ্যা</string>
+    <string name="quantity_field">সংখ্যা</string>
+    <string name="toast_message">প্রয়োজনীয় ক্ষেত্র * খালি করা যাবে না</string>
+    <string name="topping">টপিং</string>
+    <string name="total_field">মোট</string>
+    <string name="upper_limit">আপনি ১০০ টির বেশি কফি অর্ডার করতে পারবেন না</string>
+    <string name="whipped_cream">ক্রিম</string>
+</resources>

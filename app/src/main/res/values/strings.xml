@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="_0">$0</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="one" translatable="false">1</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="order">order</string>
+    <string name="price">price</string>
+    <string name="order_summary">order summary</string>
+    <string name="Coffee_Shop">Coffee Shop</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="none">none</string>
+    <string name="toast_message">Required Field * Cannot Be Empty</string>
+    <string name="cream_topping">Whipped Cream</string>
+    <string name="chocolate_topping">Chocolate</string>
+    <string name="email_subject">Order Coffee</string>
+    <string name="currency">$</string>
+    <string name="upper_limit">You Cannot Order More Than 100 Coffee</string>
+    <string name="lower_limit">You Cannot Order Less Than 1 Coffee</string>
+    <string name="customer_name">Name</string>
+    <string name="customer_address">Address</string>
+    <string name="quantity_field">Quantity</string>
+    <string name="topping">Topping</string>
+    <string name="total_field">Total</string>
+</resources>
